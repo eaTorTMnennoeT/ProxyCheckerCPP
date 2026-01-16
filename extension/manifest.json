@@ -1,0 +1,15 @@
+{
+  "manifest_version": 2,
+  "name": "Proxy Auto Auth",
+  "version": "1.0",
+  "description": "Automatically authenticate proxy connections",
+  "permissions": [
+    "webRequest",
+    "webRequestBlocking",
+    "<all_urls>"
+  ],
+  "background": {
+    "scripts": ["background.js"],
+    "persistent": true
+  }
+}

@@ -1,0 +1,17 @@
+# Build
+build/
+dist/
+*.zip
+
+# Node
+node_modules/
+package-lock.json
+
+# IDE
+.vscode/
+.idea/
+*.user
+
+# Temp
+*.log
+*.tmp
