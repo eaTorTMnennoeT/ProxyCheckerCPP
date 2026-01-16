@@ -1,0 +1,3 @@
+C:\mingw64\mingw64\bin\cmake.exe -E rm -f CMakeFiles\ProxyChecker.dir/objects.a
+C:\mingw64\mingw64\bin\ar.exe qc CMakeFiles\ProxyChecker.dir/objects.a @CMakeFiles\ProxyChecker.dir\objects1.rsp
+C:\mingw64\mingw64\bin\c++.exe -mwindows -static -mwindows -Wl,--whole-archive CMakeFiles\ProxyChecker.dir/objects.a -Wl,--no-whole-archive -o ProxyChecker.exe -Wl,--out-implib,libProxyChecker.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\ProxyChecker.dir\linkLibs.rsp

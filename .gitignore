@@ -1,11 +1,5 @@
-# Build
-build/
-dist/
-*.zip
-
-# Node
+# Node modules (use npm install to restore)
 node_modules/
-package-lock.json
 
 # IDE
 .vscode/

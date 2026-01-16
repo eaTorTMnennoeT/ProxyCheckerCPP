@@ -1,0 +1,3 @@
+C:/anilife-downloader/ProxyCheckerCPP/build/CMakeFiles/ProxyChecker.dir
+C:/anilife-downloader/ProxyCheckerCPP/build/CMakeFiles/edit_cache.dir
+C:/anilife-downloader/ProxyCheckerCPP/build/CMakeFiles/rebuild_cache.dir

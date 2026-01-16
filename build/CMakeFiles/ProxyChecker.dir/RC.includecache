@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/anilife-downloader/ProxyCheckerCPP/resource.h
+
+C:/anilife-downloader/ProxyCheckerCPP/resource.rc
+windows.h
+-
+resource.h
+C:/anilife-downloader/ProxyCheckerCPP/resource.h
+
